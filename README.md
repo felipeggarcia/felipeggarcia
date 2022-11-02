@@ -1,18 +1,14 @@
 ### Hi there 👋
 
-<!--
-**felipeggarcia/felipeggarcia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working with PHP, Laravel, Dart, Flutter.
+- 🌱 I’m currently learning Software Architecture and Flutter.
+- 👯 I’m looking to collaborate on greate open source projects
+- 🤔 I’m looking for help with Test-driven development (TDD)
+- <!--💬 Ask me about -->
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/felipegoncalvesgarcia/)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I dont live without cheese ❤️🧀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipeggarcia&show_icons=true&theme=radical)
+![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipeggarcia&show_icons=true&theme=radical)
