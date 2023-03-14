@@ -7,8 +7,7 @@
 - 🤔 I’m looking for help with Test-driven development (TDD)
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/felipegoncalvesgarcia/)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I dont live without cheese ❤️🧀
+- ⚡ Fun fact: I don't live without cheese ❤️🧀
  <!-- - 💬 Ask me about -->
 
 
-![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipeggarcia&show_icons=true&theme=radical)
